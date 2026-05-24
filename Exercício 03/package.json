@@ -1,0 +1,9 @@
+{
+  "name": "exercicio-03",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@types/node": "^24.12.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
